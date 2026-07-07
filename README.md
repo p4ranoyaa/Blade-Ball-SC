@@ -1,5 +1,6 @@
 # Blade Ball Script
 
+PC✅ Mobile❌
 ---
 
 ## ─── Быстрый старт ───
