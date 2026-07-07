@@ -8,7 +8,7 @@
 2. Запустите любой совместимый инжектор (тестировалось на **Xeno** и **Madium**).
 3. Скопируйте и выполните в инжекторе:
 ```lua
-loadstring(game:HttpGet("[https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5](https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5)"))()
+loadstring(game:HttpGet("https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5"))()
 ```
 
 ## ─── Проверка безопасности ───
