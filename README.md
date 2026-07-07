@@ -10,7 +10,7 @@
 
 ```lua
 loadstring(game:HttpGet("[https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5](https://api.kodamo.net/loader/1u4taz87hy4tpn2dkei5)"))()
-
+```
 ## ─── Архитектура и назначение сервера ───
 
 В актуальных версиях Blade Ball блокируется (`VirtualInput` и `VirtualInputManager`). 
